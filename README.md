@@ -30,4 +30,4 @@ npm run dev
 2. Set `homepage` in `package.json` to `https://<your-username>.github.io/e-plantShopping`.
 3. Run `npm run deploy` and enable Pages from the `gh-pages` branch in repo settings.
 
-Live URL: _add your deployed URL here_
+Live URL: https://Ramialargha.github.io/e-plantShopping/
